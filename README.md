@@ -1,4 +1,4 @@
-# -E-Commerce-Web-Application
+# E-Commerce-Web-Application
 A dynamic web-based E-Commerce application developed using JSP, Java, and MySQL, implementing features like authentication, product browsing, and admin management.
 
 ## 🚀 Features 
