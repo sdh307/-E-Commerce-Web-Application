@@ -6,16 +6,16 @@ This is a full-stack E-Commerce web application developed using Java (JSP &amp; 
 📦 Order Processing and Confirmation
 🧑‍💼 Admin Panel for Product & User Management
 💬 Feedback Management System
-🔄 CRUD Operations with Database Integration
+🔄 CRUD Operations with Database Integration.
 🛠️ Tech Stack --------------
 Frontend: HTML, CSS, JSP
 Backend: Java (Servlets, JSP)
 Database: MySQL
 Connectivity: JDBC
-Architecture: MVC (Model-View-Controller)
+Architecture: MVC (Model-View-Controller).
 📂 Project Structure -------------
 /src        → Java Servlets & Backend Logic  
 /WebContent → JSP, HTML, CSS Files  
-/Database   → SQL Scripts 
+/Database   → SQL Scripts.
 👨‍💻 Author -------
-Soumyadeep Hore
+Soumyadeep Hore.
