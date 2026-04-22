@@ -21,7 +21,7 @@ A dynamic web-based E-Commerce application developed using JSP, Java, and MySQL,
 🛠️ Tech Stack --------------
 Frontend: HTML, CSS, JSP
 
-Backend: Java (Servlets, JSP)
+Backend: Java (JSP-based processing)
 
 Database: MySQL
 
