@@ -1,7 +1,7 @@
 # -E-Commerce-Web-Application
 A dynamic web-based E-Commerce application developed using JSP, Java, and MySQL, implementing features like authentication, product browsing, and admin management.
 
-🚀 Features 
+## 🚀 Features 
 
 🔐 User Authentication (Login & Signup)
 
@@ -18,7 +18,7 @@ A dynamic web-based E-Commerce application developed using JSP, Java, and MySQL,
 
 
 
-🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 Frontend: HTML, CSS, JSP
 
@@ -28,18 +28,16 @@ Database: MySQL
 
 Connectivity: JDBC
 
-Architecture: MVC (Model-View-Controller).
+Architecture: JSP-based (Monolithic Structure).
 
 
-📂 Project Structure 
+## 📂 Project Structure 
 
-/src        → Java Servlets & Backend Logic  
-
-/WebContent → JSP, HTML, CSS Files  
+/src/main/webapp → JSP pages, frontend, and embedded backend logic
 
 /Database   → SQL Scripts.
 
 
-👨‍💻 Author 
+## 👨‍💻 Author 
 
 Soumyadeep Hore.
